@@ -2,7 +2,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=70&duration=2500&pause=15000&color=11A457&center=true&random=true&width=800&height=150&lines=Hello+There!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=70&duration=2500&pause=15000&color=11A457&center=true&vCenter=true&random=true&width=800&height=150&lines=Hello+There!" alt="Typing SVG" />
   </picture>
 </div>
 <div align="center">
@@ -15,7 +15,7 @@ Germany 🗺️<br>
 
 <div align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=40&duration=2500&pause=15000&color=11A457&center=true&random=true&width=800&height=150&lines=Languages+and+Tools%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=40&duration=2500&pause=15000&color=11A457&center=true&vCenter=true&random=true&width=800&height=150&lines=Languages+and+Tools%3A" alt="Typing SVG" />
   </picture>
 </div>
 
@@ -32,7 +32,7 @@ Germany 🗺️<br>
 
 <div align="center">
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=40&duration=2500&pause=15000&color=11A457&center=true&random=true&width=800&height=150&lines=Stats%3A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=40&duration=2500&pause=15000&color=11A457&center=true&vCenter=true&random=true&width=400&height=80&lines=Stats%3A" alt="Typing SVG" />
   </picture>
 </div>
 
