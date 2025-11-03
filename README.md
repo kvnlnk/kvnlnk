@@ -30,7 +30,7 @@ Germany 🗺️<br>
 <!-- GitHub Top Languages -->
 <div align="center">
     <picture>
-        <img src="https://github-readme-stats-wheat-beta-citj53wxp0.vercel.app/api/top-langs/?username=kvnlnk&layout=compact&hide=html,css,jupyter%20notebook,cmake,assembly" alt="Top Languages" />
+        <img src="https://github-readme-stats-wheat-beta-citj53wxp0.vercel.app/api/top-langs/?username=kvnlnk&layout=compact&hide=html,css,jupyter%20notebook,cmake,assembly,tex" alt="Top Languages" />
     </picture>
 </div>
 
