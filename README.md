@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 Kevin <br>
-Computer Science Student 🧑‍🎓<br>
+Software Developer 🧑‍🎓<br>
 Germany 🗺️<br>
 
 ### 📫 How to reach me
