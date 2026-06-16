@@ -63,3 +63,9 @@ Germany 🗺️<br>
     src="https://raw.githubusercontent.com/kvnlnk/kvnlnk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+<div align="center">
+    <picture>
+       <img src="https://komarev.com/ghpvc/?username=kvnlnk&style=for-the-badge&color=006afe" />
+    </picture>
+</div>
+
